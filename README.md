@@ -18,6 +18,10 @@ A Siamese CNN is composed of two identical CNN with shared weights. The proposed
 
 ![](images/2-Figure1-1.png)
 
+The graph is shown below:
+
+![](images/Graph.png)
+
 ## Dataset 
 
 The dataset used is called Sketchy, which is a large-scale collection of sketch-photo pairs. Crowd workers were asked to sketch particular photographic objects sampled from 125 categories and acquire 75,471 sketches of 12,500 objects. 
